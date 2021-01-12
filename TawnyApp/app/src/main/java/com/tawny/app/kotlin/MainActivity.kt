@@ -1,7 +1,8 @@
-package com.tawny.app
+package com.tawny.app.kotlin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.tawny.app.R
 
 class MainActivity : AppCompatActivity() {
 
